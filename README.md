@@ -1,2 +1,2 @@
 # gamekid
-Portable gaming device
+Source files for my portable gaming device.
